@@ -1,0 +1,7 @@
+pyglet
+tensorflow
+scipy
+tqdm
+matplotlib
+numpy
+scikit_learn
